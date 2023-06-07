@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>João Rodrigues</title>
+    <link>/</link>
+    <description>Recent content on João Rodrigues</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-SA 4.0&lt;/a&gt;</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Fri, 30 Oct 2020 14:39:52 -0700</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>I developed or contributed to these educational materials, which range from simple cheat sheets to in-depth tutorials, and cover topics from introductory programming to molecular modeling and simulation. Feedback on existing content and suggestions for other tutorials are welcome.
+Intermediate Python A 3-hour Python workshop that aims to familiarize participants with conventions and features of the language that are not necessarily covered in introductory courses, but that are nonetheless common in daily Python programming, by building a road trip planner.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Fri, 30 Oct 2020 14:06:52 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a computational biologist interested in the structure and dynamics of protein interactions. I studied biochemistry at the University of Coimbra (Portugal) and later earned my Ph.D. in the lab of Alexandre Bonvin, working on protein interactions and structural bioinformatics. I am currently a postdoctoral researcher at Stanford University with Michael Levitt.
+I am a highly collaborative scientist, having published more than 30 articles in peer-reviewed journals, which have received more than 2000 citations.</description>
+    </item>
+    
+  </channel>
+</rss>
